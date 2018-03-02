@@ -22,7 +22,7 @@ void print_sol(int n)
      for(j=1;j<=n;j++)
        {
           if(a[i]==j)
-           printf("\n Q \t ");
+           printf("Q\t");
           else
            printf("*\t");
        }
